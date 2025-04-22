@@ -102,6 +102,10 @@ $('.carousel').owlCarousel({
       items: 1,
       nav: false
     },
+    344: {
+      items: 1,
+      nav: false
+    },
     600: {
       items: 2,
       nav: false
@@ -132,6 +136,10 @@ $('.caro').owlCarousel({
 <polygon fill="#c28562" points="49.525,14.265 48.898,15.044 54.481,19.541 6.444,19.541 6.444,20.541 54.464,20.541 48.901,24.954 49.522,25.737 56.7,20.044 "></polygon></svg>`],
   responsive: {
     0: {
+      items: 1,
+      nav: false
+    },
+    344: {
       items: 1,
       nav: false
     },
